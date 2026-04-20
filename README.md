@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/abodezoabi/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abodezoabi/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abodezoabi/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -103,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
 | [1603-design-parking-system](https://github.com/abodezoabi/neetcode-submissions/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -206,4 +209,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abodezoabi/neetcode-submissions/tree/master/0200-number-of-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abodezoabi/neetcode-submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

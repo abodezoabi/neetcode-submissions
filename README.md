@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/abodezoabi/neetcode-submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +111,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

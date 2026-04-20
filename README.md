@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/abodezoabi/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abodezoabi/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -128,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0012-integer-to-roman](https://github.com/abodezoabi/neetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abodezoabi/neetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/abodezoabi/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0049-group-anagrams](https://github.com/abodezoabi/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abodezoabi/neetcode-submissions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/abodezoabi/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abodezoabi/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |

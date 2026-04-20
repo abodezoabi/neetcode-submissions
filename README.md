@@ -148,4 +148,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abodezoabi/neetcode-submissions/tree/master/0069-sqrtx) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/abodezoabi/neetcode-submissions/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/abodezoabi/neetcode-submissions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/abodezoabi/neetcode-submissions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->

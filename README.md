@@ -81,4 +81,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abodezoabi/neetcode-submissions/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abodezoabi/neetcode-submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
